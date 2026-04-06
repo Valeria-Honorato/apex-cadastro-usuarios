@@ -1,5 +1,0 @@
--- Este arquivo deve ser substituído pelo export real da aplicação Oracle APEX.
--- Após criar a aplicação no Oracle APEX:
--- App Builder > Export/Import > Export
--- Salve o arquivo gerado aqui com o nome:
--- f100_cadastro_usuarios.sql
